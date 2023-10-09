@@ -1,0 +1,226 @@
+{
+  "lootr:social": {
+    "criteria": {
+      "opened_chest": "2023-09-27 05:48:57 +0500"
+    },
+    "done": false
+  },
+  "vinery:oak_wine_rack_small": {
+    "criteria": {
+      "has_oak_planks": "2023-09-27 05:48:58 +0500"
+    },
+    "done": true
+  },
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2023-09-27 05:36:03 +0500"
+    },
+    "done": true
+  },
+  "betterdungeons:root": {
+    "criteria": {
+      "always": "2023-09-27 05:36:25 +0500"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "onion": "2023-09-27 05:53:20 +0500"
+    },
+    "done": true
+  },
+  "modonomicon:modonomicon/root": {
+    "criteria": {
+      "modonomicon_present": "2023-09-27 05:36:25 +0500"
+    },
+    "done": true
+  },
+  "lootr:root": {
+    "criteria": {
+      "always_true": "2023-09-27 05:36:25 +0500"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:zombie": "2023-09-27 05:54:13 +0500"
+    },
+    "done": true
+  },
+  "cataclysm:root": {
+    "criteria": {
+      "custom_test_name": "2023-09-27 05:36:25 +0500"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:zombie": "2023-09-27 05:54:13 +0500"
+    },
+    "done": false
+  },
+  "naturescompass:natures_compass": {
+    "criteria": {
+      "has_compass": "2023-09-27 05:36:03 +0500"
+    },
+    "done": true
+  },
+  "byg:husbandry/berrily_alive": {
+    "criteria": {
+      "blue_berry": "2023-09-27 05:45:29 +0500"
+    },
+    "done": true
+  },
+  "mekanism:root": {
+    "criteria": {
+      "automatic": "2023-09-27 05:36:03 +0500"
+    },
+    "done": true
+  },
+  "dungeons_arise:wda_root": {
+    "criteria": {
+      "WDA": "2023-09-27 05:36:25 +0500"
+    },
+    "done": true
+  },
+  "tetra:recipes/planks": {
+    "criteria": {
+      "got_wood": "2023-09-27 05:48:58 +0500"
+    },
+    "done": true
+  },
+  "byg:root": {
+    "criteria": {
+      "tick": "2023-09-27 05:36:25 +0500"
+    },
+    "done": true
+  },
+  "byg:adventure/oh_the_biomes_youll_go": {
+    "criteria": {
+      "byg:coconino_meadow": "2023-09-27 05:44:02 +0500",
+      "byg:autumnal_valley": "2023-09-27 05:36:26 +0500"
+    },
+    "done": false
+  },
+  "ae2:main/presses": {
+    "criteria": {
+      "calculation": "2023-09-27 05:57:38 +0500",
+      "silicon": "2023-09-27 05:57:39 +0500",
+      "engineering": "2023-09-27 05:57:39 +0500",
+      "logic": "2023-09-27 05:57:54 +0500"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/robe": {
+    "criteria": {
+      "has_item": "2023-09-27 05:51:02 +0500"
+    },
+    "done": true
+  },
+  "vinery:big_table": {
+    "criteria": {
+      "has_iron_ingot": "2023-09-27 05:54:12 +0500"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:sunflower_plains": "2023-09-27 16:57:45 +0500",
+      "minecraft:river": "2023-09-27 05:43:09 +0500",
+      "minecraft:forest": "2023-09-27 05:46:03 +0500",
+      "minecraft:plains": "2023-09-27 05:45:55 +0500"
+    },
+    "done": false
+  },
+  "byg:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2023-09-27 05:45:44 +0500"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2023-09-27 05:52:36 +0500"
+    },
+    "done": true
+  },
+  "create:root": {
+    "criteria": {
+      "0": "2023-09-27 05:36:03 +0500"
+    },
+    "done": true
+  },
+  "betterdeserttemples:root": {
+    "criteria": {
+      "always": "2023-09-27 05:36:25 +0500"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2023-09-27 05:45:44 +0500"
+    },
+    "done": true
+  },
+  "naturescompass:natures_compass_log": {
+    "criteria": {
+      "has_log": "2023-09-27 05:48:58 +0500"
+    },
+    "done": true
+  },
+  "vinery:dirt_slab": {
+    "criteria": {
+      "has_dirt": "2023-09-27 05:53:30 +0500"
+    },
+    "done": true
+  },
+  "naturescompass:natures_compass_sapling": {
+    "criteria": {
+      "has_sapling": "2023-09-27 05:53:20 +0500"
+    },
+    "done": true
+  },
+  "undergarden:undergarden/root": {
+    "criteria": {
+      "tick": "2023-09-27 05:36:25 +0500"
+    },
+    "done": true
+  },
+  "vinery:oak_wine_rack_big": {
+    "criteria": {
+      "has_oak_planks": "2023-09-27 05:48:58 +0500"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2023-09-27 05:54:12 +0500"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2023-09-27 05:49:23 +0500"
+    },
+    "done": true
+  },
+  "occultism:occultism/root": {
+    "criteria": {
+      "occultism_present": "2023-09-27 05:36:25 +0500"
+    },
+    "done": true
+  },
+  "lootr:1chest": {
+    "criteria": {
+      "opened_chest": "2023-09-27 05:48:57 +0500"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/wooden": {
+    "criteria": {
+      "has_item": "2023-09-27 05:48:58 +0500"
+    },
+    "done": true
+  },
+  "DataVersion": 3120
+}
