@@ -5,6 +5,12 @@
     },
     "done": true
   },
+  "pneumaticcraft:advanced_pressure_tube": {
+    "criteria": {
+      "0": "2023-10-09 17:16:17 +0500"
+    },
+    "done": true
+  },
   "modonomicon:modonomicon/root": {
     "criteria": {
       "modonomicon_present": "2023-10-08 19:42:15 +0500"
@@ -14,6 +20,24 @@
   "vinery:dark_oak_wine_rack_small": {
     "criteria": {
       "has_dark_oak_planks": "2023-10-08 19:56:52 +0500"
+    },
+    "done": true
+  },
+  "naturesaura:positive_imbalance": {
+    "criteria": {
+      "triggered_in_code": "2023-10-09 21:55:40 +0500"
+    },
+    "done": true
+  },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "sweet_berries": "2023-10-09 17:22:41 +0500"
+    },
+    "done": false
+  },
+  "botania:main/lexicon_use": {
+    "criteria": {
+      "use_lexicon": "2023-10-09 18:47:44 +0500"
     },
     "done": true
   },
@@ -41,6 +65,12 @@
     },
     "done": true
   },
+  "vinery:vinemaker_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2023-10-09 18:50:27 +0500"
+    },
+    "done": true
+  },
   "create:copper": {
     "criteria": {
       "0": "2023-10-08 19:49:13 +0500"
@@ -56,7 +86,9 @@
   "byg:adventure/oh_the_biomes_youll_go": {
     "criteria": {
       "byg:coconino_meadow": "2023-10-08 20:09:05 +0500",
-      "byg:autumnal_valley": "2023-10-08 20:17:17 +0500"
+      "byg:cika_woods": "2023-10-09 21:56:51 +0500",
+      "byg:autumnal_valley": "2023-10-08 20:17:17 +0500",
+      "byg:skyris_vale": "2023-10-09 22:44:21 +0500"
     },
     "done": false
   },
@@ -92,9 +124,15 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:old_growth_pine_taiga": "2023-10-09 21:55:12 +0500",
+      "minecraft:taiga": "2023-10-09 21:17:05 +0500",
+      "minecraft:beach": "2023-10-09 21:37:56 +0500",
       "minecraft:river": "2023-10-08 20:02:51 +0500",
       "minecraft:dripstone_caves": "2023-10-08 20:01:16 +0500",
+      "minecraft:cold_ocean": "2023-10-09 21:55:59 +0500",
       "minecraft:forest": "2023-10-08 20:05:15 +0500",
+      "minecraft:lush_caves": "2023-10-09 21:59:30 +0500",
+      "minecraft:old_growth_spruce_taiga": "2023-10-09 21:38:34 +0500",
       "minecraft:plains": "2023-10-08 19:44:05 +0500"
     },
     "done": false
@@ -117,15 +155,21 @@
     },
     "done": true
   },
-  "minecraft:story/lava_bucket": {
+  "vinery:loam": {
     "criteria": {
-      "lava_bucket": "2023-10-08 22:35:29 +0500"
+      "has_clay_ball": "2023-10-09 21:59:50 +0500"
     },
     "done": true
   },
   "vinery:cherry_fence": {
     "criteria": {
       "has_stick": "2023-10-08 19:54:44 +0500"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2023-10-08 22:35:29 +0500"
     },
     "done": true
   },
@@ -171,15 +215,15 @@
     },
     "done": true
   },
-  "mekanism:steel_casing": {
-    "criteria": {
-      "steel_casing": "2023-10-08 22:33:51 +0500"
-    },
-    "done": true
-  },
   "vinery:oak_wine_rack_big": {
     "criteria": {
       "has_oak_planks": "2023-10-08 19:49:13 +0500"
+    },
+    "done": true
+  },
+  "mekanism:steel_casing": {
+    "criteria": {
+      "steel_casing": "2023-10-08 22:33:51 +0500"
     },
     "done": true
   },
@@ -189,15 +233,34 @@
     },
     "done": true
   },
+  "ae2:main/root": {
+    "criteria": {
+      "copper": "2023-10-08 19:49:13 +0500"
+    },
+    "done": true
+  },
   "minecraft:adventure/root": {
     "criteria": {
       "killed_something": "2023-10-08 19:54:33 +0500"
     },
     "done": true
   },
-  "ae2:main/root": {
+  "lootr:1chest": {
     "criteria": {
-      "copper": "2023-10-08 19:49:13 +0500"
+      "opened_chest": "2023-10-09 17:13:20 +0500"
+    },
+    "done": true
+  },
+  "quark:get_all_corundum": {
+    "criteria": {
+      "green": "2023-10-09 22:03:35 +0500",
+      "black": "2023-10-09 22:03:38 +0500"
+    },
+    "done": false
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2023-10-09 22:01:12 +0500"
     },
     "done": true
   },
@@ -206,6 +269,12 @@
       "0": "2023-10-08 19:49:56 +0500"
     },
     "done": true
+  },
+  "lootr:social": {
+    "criteria": {
+      "opened_chest": "2023-10-09 17:13:20 +0500"
+    },
+    "done": false
   },
   "vinery:oak_wine_rack_small": {
     "criteria": {
@@ -231,6 +300,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_lighthouse": {
+    "criteria": {
+      "location0": "2023-10-09 22:39:23 +0500"
+    },
+    "done": true
+  },
   "cataclysm:root": {
     "criteria": {
       "custom_test_name": "2023-10-08 19:42:15 +0500"
@@ -243,17 +318,24 @@
     },
     "done": true
   },
+  "immersive_armors:recipes/misc/bone": {
+    "criteria": {
+      "has_item": "2023-10-08 19:49:13 +0500"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2023-10-08 20:04:41 +0500",
       "minecraft:spider": "2023-10-08 20:19:46 +0500",
+      "minecraft:creeper": "2023-10-09 22:41:59 +0500",
       "minecraft:zombie": "2023-10-08 19:54:33 +0500"
     },
     "done": false
   },
-  "immersive_armors:recipes/misc/bone": {
+  "vinery:red_grape_crate": {
     "criteria": {
-      "has_item": "2023-10-08 19:49:13 +0500"
+      "has_red_grape": "2023-10-09 21:17:28 +0500"
     },
     "done": true
   },
@@ -295,8 +377,11 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "sweet_berries": "2023-10-09 17:22:02 +0500",
       "apple": "2023-10-08 20:05:10 +0500",
-      "rotten_flesh": "2023-10-08 19:54:36 +0500"
+      "bread": "2023-10-09 21:56:49 +0500",
+      "rotten_flesh": "2023-10-08 19:54:36 +0500",
+      "glow_berries": "2023-10-09 22:00:37 +0500"
     },
     "done": false
   },
@@ -306,15 +391,15 @@
     },
     "done": true
   },
-  "vinery:wine_rack_1": {
-    "criteria": {
-      "has_spruce_planks": "2023-10-08 21:20:32 +0500"
-    },
-    "done": true
-  },
   "vinery:grapevine_lattice": {
     "criteria": {
       "has_coal": "2023-10-08 19:52:05 +0500"
+    },
+    "done": true
+  },
+  "vinery:wine_rack_1": {
+    "criteria": {
+      "has_spruce_planks": "2023-10-08 21:20:32 +0500"
     },
     "done": true
   },
@@ -396,15 +481,15 @@
     },
     "done": true
   },
-  "mekanism:metallurgic_infuser": {
-    "criteria": {
-      "metallurgic_infuser": "2023-10-08 20:10:35 +0500"
-    },
-    "done": true
-  },
   "immersive_armors:recipes/misc/wooden": {
     "criteria": {
       "has_item": "2023-10-08 19:51:30 +0500"
+    },
+    "done": true
+  },
+  "mekanism:metallurgic_infuser": {
+    "criteria": {
+      "metallurgic_infuser": "2023-10-08 20:10:35 +0500"
     },
     "done": true
   },
