@@ -243,6 +243,7 @@
 #BA6650 emendatusenigmatica:sulfur_stone_ore
 #329213 minecraft:sweet_berry_bush
 #9EEBF0 emendatusenigmatica:tin_stone_ore
+#6EC61D minecraft:tripwire
 #87BAF4 minecraft:tuff
 #750605 computercraft:turtle_normal
 #6DB687 create:veridium
