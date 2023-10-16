@@ -1,3 +1,4 @@
+#368 byg:allium_fields
 #040 byg:araucaria_savanna
 #244 byg:atacama_desert
 #46B byg:autumnal_forest
@@ -19,6 +20,7 @@
 #3DE minecraft:deep_ocean
 #008 minecraft:desert
 #4CA minecraft:dripstone_caves
+#674 minecraft:flower_forest
 #010 minecraft:forest
 #3AA byg:frosted_taiga
 #3A0 minecraft:frozen_river

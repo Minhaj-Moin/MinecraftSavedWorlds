@@ -1,6 +1,7 @@
 #942E52 minecraft:acacia_leaves
 #C90123 minecraft:acacia_wood
 #FBEB73 minecraft:allium
+#F3FE1D byg:allium_flower_bush
 #BA6A6C byg:aloe_vera
 #FA7F97 emendatusenigmatica:aluminum_stone_ore
 #8100D0 darkerdepths:amber
@@ -9,6 +10,7 @@
 #F84007 minecraft:andesite_stairs
 #66454F emendatusenigmatica:apatite_stone_ore
 #374FD0 vinery:apple_leaves
+#BCFF8E vinery:apple_log
 #FF3C04 byg:araucaria_leaves
 #B2FA5E darkerdepths:aridrock
 #488171 darkerdepths:ash_block
@@ -43,12 +45,15 @@
 #5F28F3 ars_nouveau:blue_archwood_log
 #C5ECC7 quark:blue_blossom_leaves
 #D81107 quark:blue_corundum_cluster
+#087519 minecraft:blue_ice
 #7C1E04 byg:blue_nether_bricks
 #88AF44 byg:blue_netherrack
 #62D059 byg:blue_sand
 #354BCC byg:blue_sandstone
 #FC75A4 byg:blue_spruce_leaves
 #F852DD minecraft:blue_terracotta
+#15C8D4 minecraft:bookshelf
+#FFC34F mekanism:bounding_block
 #8AE729 minecraft:brain_coral_block
 #53756B minecraft:brick_slab
 #1BDBFB minecraft:brick_stairs
@@ -59,6 +64,7 @@
 #C6AC20 minecraft:cactus
 #00BE18 minecraft:calcite
 #FC842A minecraft:campfire
+#F3C652 pneumaticcraft:charging_station
 #AFA8B1 vinery:cherry_leaves
 #F522F4 minecraft:chest
 #B8B599 ae2:chipped_budding_quartz
@@ -70,6 +76,7 @@
 #DE242D minecraft:coal_ore
 #FE4F0A minecraft:coarse_dirt
 #2848C0 minecraft:cobbled_deepslate
+#4571EF minecraft:cobbled_deepslate_wall
 #058353 minecraft:cobblestone
 #7331AC minecraft:cobblestone_slab
 #3D8BFC minecraft:cobblestone_stairs
@@ -107,6 +114,7 @@
 #60355C minecraft:deepslate_redstone_ore
 #4D2B74 rftoolsbase:dimensionalshard_overworld
 #BED665 minecraft:diorite
+#C600AA minecraft:diorite_stairs
 #4EA36A minecraft:diorite_wall
 #80497A minecraft:dirt
 #4FA7D0 minecraft:dirt_path
@@ -114,6 +122,7 @@
 #3B0AD1 minecraft:dripstone_block
 #54BD67 mekanism:electric_pump
 #9C5F98 mekanism:electrolytic_separator
+#2208EB minecraft:enchanting_table
 #063FFF mekanism:energized_smelter
 #82545F mekanism:enrichment_chamber
 #009B14 minecraft:farmland
@@ -143,6 +152,7 @@
 #20A8AF byg:green_apple_skyris_leaves
 #F54742 ars_nouveau:green_archwood_leaves
 #C764EA ars_nouveau:green_archwood_log
+#CFA1C4 minecraft:grindstone
 #F67E21 minecraft:hay_block
 #145821 mekanismgenerators:heat_generator
 #F7FF82 byg:holly_berry_leaves
@@ -225,8 +235,10 @@
 #2FFA1A thermal:oil_sand
 #591473 quark:orange_blossom_leaves
 #3FFDB3 quark:orange_corundum_cluster
+#8F6314 minecraft:orange_tulip
 #089AA0 byg:orchard_leaves
 #2D7F28 farmersdelight:organic_compost
+#EA9F69 mekanism:osmium_compressor
 #FE40F7 emendatusenigmatica:osmium_deepslate_ore
 #AB79AF emendatusenigmatica:osmium_stone_ore
 #FBE76A occultism:otherstone_natural
@@ -242,8 +254,10 @@
 #62CFF8 byg:peat
 #AB1C58 minecraft:peony
 #FC1979 byg:pink_allium
+#18F386 byg:pink_allium_flower_bush
 #27C02B quark:pink_blossom_leaves
 #6ED0BD byg:pink_sand
+#36285C minecraft:pink_tulip
 #BB7F65 minecraft:podzol
 #22D3D1 byg:podzol_dacite
 #522933 minecraft:pointed_dripstone
@@ -277,12 +291,14 @@
 #430A40 byg:red_oak_leaves
 #81AF65 minecraft:red_sand
 #841826 minecraft:red_sandstone
+#465F37 minecraft:red_tulip
 #83B596 minecraft:red_wool
 #721B63 minecraft:redstone_wire
 #487B7B minecraft:repeater
 #863CEF deepresonance:resonating_crystal_natural
 #A6881F deepresonance:resonating_ore_deepslate
 #F79257 deepresonance:resonating_ore_stone
+#F390DD farmersdelight:rich_soil
 #69E799 farmersdelight:rich_soil_farmland
 #D9A6E5 byg:ripe_baobab_leaves
 #6BD712 byg:ripe_joshua_leaves
@@ -308,6 +324,7 @@
 #696870 byg:skyris_log
 #58F81E byg:skyris_vine
 #A0D637 ae2:small_quartz_bud
+#C2A0D6 minecraft:smoker
 #8638B9 minecraft:smooth_basalt
 #30D23F minecraft:smooth_quartz
 #13D503 minecraft:smooth_sandstone
@@ -340,6 +357,8 @@
 #5CF3F1 minecraft:sugar_cane
 #BA6650 emendatusenigmatica:sulfur_stone_ore
 #329213 minecraft:sweet_berry_bush
+#9BAA62 byg:tall_allium
+#FC10E7 byg:tall_pink_allium
 #9209D8 minecraft:terracotta
 #9EEBF0 emendatusenigmatica:tin_stone_ore
 #6EC61D minecraft:tripwire
@@ -353,6 +372,7 @@
 #F0111C byg:white_mangrove_leaves
 #F4CEE4 byg:white_mangrove_log
 #973DEA byg:white_sand
+#1B60CF minecraft:white_tulip
 #DBA41E minecraft:white_wall_banner
 #BC20FE minecraft:white_wool
 #3ADE51 byg:willow_leaves
