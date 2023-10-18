@@ -360,6 +360,8 @@
 #9BAA62 byg:tall_allium
 #FC10E7 byg:tall_pink_allium
 #9209D8 minecraft:terracotta
+#B12AD5 mekanism:thermal_evaporation_block
+#C5F7D8 mekanism:thermal_evaporation_valve
 #9EEBF0 emendatusenigmatica:tin_stone_ore
 #6EC61D minecraft:tripwire
 #2035B7 minecraft:tube_coral_block
