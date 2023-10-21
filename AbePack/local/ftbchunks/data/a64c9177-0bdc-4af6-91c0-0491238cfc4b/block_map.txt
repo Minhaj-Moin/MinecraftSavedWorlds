@@ -1,11 +1,22 @@
 #942E52 minecraft:acacia_leaves
 #C90123 minecraft:acacia_wood
+#399487 mekanism:advanced_bin
+#F2C0B7 mekanism:advanced_chemical_tank
+#DB2FAC mekanism:advanced_crushing_factory
+#70BDC8 mekanism:advanced_enriching_factory
+#2FB94D mekanism:advanced_pressurized_tube
+#0F67BE mekanism:advanced_purifying_factory
+#AD9504 mekanism:advanced_thermodynamic_conductor
+#138449 mekanism:advanced_universal_cable
 #FBEB73 minecraft:allium
 #F3FE1D byg:allium_flower_bush
+#384494 immersiveengineering:alloy_smelter
+#D0995E immersiveengineering:alloybrick
 #BA6A6C byg:aloe_vera
 #FA7F97 emendatusenigmatica:aluminum_stone_ore
 #8100D0 darkerdepths:amber
 #FA75A8 minecraft:andesite
+#A4683B create:andesite_casing
 #D16C77 minecraft:andesite_slab
 #F84007 minecraft:andesite_stairs
 #66454F emendatusenigmatica:apatite_stone_ore
@@ -25,7 +36,10 @@
 #16C608 byg:baobab_log
 #189B99 minecraft:barrel
 #16A5F6 byg:barrel_cactus
+#B81A93 mekanism:basic_bin
+#B2BF1C mekanism:basic_infusing_factory
 #23344A mekanism:basic_mechanical_pipe
+#D89D10 mekanism:basic_thermodynamic_conductor
 #1D5855 mekanism:basic_universal_cable
 #840F59 minecraft:bedrock
 #7F50F6 minecraft:bell
@@ -48,6 +62,7 @@
 #087519 minecraft:blue_ice
 #7C1E04 byg:blue_nether_bricks
 #88AF44 byg:blue_netherrack
+#45C81B minecraft:blue_orchid
 #62D059 byg:blue_sand
 #354BCC byg:blue_sandstone
 #FC75A4 byg:blue_spruce_leaves
@@ -55,6 +70,7 @@
 #15C8D4 minecraft:bookshelf
 #FFC34F mekanism:bounding_block
 #8AE729 minecraft:brain_coral_block
+#CCD23F create:brass_casing
 #53756B minecraft:brick_slab
 #1BDBFB minecraft:brick_stairs
 #551EFB minecraft:brick_wall
@@ -65,6 +81,8 @@
 #00BE18 minecraft:calcite
 #FC842A minecraft:campfire
 #F3C652 pneumaticcraft:charging_station
+#58A11C mekanism:chemical_infuser
+#3D3E66 mekanism:chemical_injection_chamber
 #AFA8B1 vinery:cherry_leaves
 #F522F4 minecraft:chest
 #B8B599 ae2:chipped_budding_quartz
@@ -98,6 +116,7 @@
 #E9A8F5 minecraft:crying_obsidian
 #3C3897 minecraft:cut_sandstone
 #2F26E8 minecraft:cut_sandstone_slab
+#1B74F2 farmersdelight:cutting_board
 #587E64 byg:dacite
 #C0C605 byg:dacite_cobblestone
 #B2A2E1 minecraft:dandelion
@@ -112,6 +131,7 @@
 #5E9420 minecraft:deepslate
 #328601 minecraft:deepslate_copper_ore
 #60355C minecraft:deepslate_redstone_ore
+#5E5E58 create:deployer
 #4D2B74 rftoolsbase:dimensionalshard_overworld
 #BED665 minecraft:diorite
 #C600AA minecraft:diorite_stairs
@@ -122,6 +142,9 @@
 #3B0AD1 minecraft:dripstone_block
 #54BD67 mekanism:electric_pump
 #9C5F98 mekanism:electrolytic_separator
+#53315B mekanism:elite_crushing_factory
+#F8F1F9 mekanism:elite_enriching_factory
+#A1B1ED mekanism:elite_injecting_factory
 #2208EB minecraft:enchanting_table
 #063FFF mekanism:energized_smelter
 #82545F mekanism:enrichment_chamber
@@ -141,6 +164,7 @@
 #041652 tetra:forged_platform_slab
 #ADEB9A tetra:forged_wall
 #AC063E mekanismgenerators:gas_burning_generator
+#D60460 create:gearbox
 #5A75B0 minecraft:glow_lichen
 #2C1BE1 minecraft:gold_block
 #B76A76 minecraft:gold_ore
@@ -153,6 +177,7 @@
 #F54742 ars_nouveau:green_archwood_leaves
 #C764EA ars_nouveau:green_archwood_log
 #CFA1C4 minecraft:grindstone
+#87B5C3 create:hand_crank
 #F67E21 minecraft:hay_block
 #145821 mekanismgenerators:heat_generator
 #F7FF82 byg:holly_berry_leaves
@@ -176,6 +201,7 @@
 #21EF0E immersiveengineering:lantern
 #3CAD79 minecraft:lantern
 #EA439B minecraft:lapis_ore
+#6C55C8 create:large_cogwheel
 #AA8783 ae2:large_quartz_bud
 #83CED3 minecraft:lava
 #F0EFBA quark:lavender_blossom_leaves
@@ -192,11 +218,14 @@
 #3F19F6 quark:lootr_crimson_chest
 #451A98 byg:lush_dirt
 #B666B3 byg:lush_grass_block
+#72C55F byg:lush_grass_path
 #DE9468 minecraft:magma_block
 #173E15 minecraft:mangrove_leaves
 #56157E minecraft:mangrove_roots
 #C90F56 byg:maple_leaves
 #650AEA byg:maple_log
+#FB37C1 create:mechanical_crafter
+#145137 create:mechanical_press
 #7EAB09 ae2:medium_quartz_bud
 #618FD5 integrateddynamics:menril_leaves
 #D798FD integrateddynamics:menril_log
@@ -293,8 +322,10 @@
 #841826 minecraft:red_sandstone
 #465F37 minecraft:red_tulip
 #83B596 minecraft:red_wool
+#24BE64 minecraft:redstone_torch
 #721B63 minecraft:redstone_wire
 #487B7B minecraft:repeater
+#74006B mekanism:resistive_heater
 #863CEF deepresonance:resonating_crystal_natural
 #A6881F deepresonance:resonating_ore_deepslate
 #F79257 deepresonance:resonating_ore_stone
@@ -313,7 +344,9 @@
 #9D474B minecraft:sandstone_slab
 #38B5DB minecraft:sandstone_stairs
 #9EF0DB minecraft:sandstone_wall
+#60B81F minecraft:scaffolding
 #33130F create:scoria
+#D3CCFE create:shaft
 #7C5F12 darkerdepths:shale
 #F77C2F quark:shale
 #6B8F5C byg:shelf_fungi
@@ -352,6 +385,7 @@
 #F8955F minecraft:stone_bricks
 #AB5BC7 minecraft:stone_slab
 #2E9337 minecraft:stonecutter
+#3B1D89 minecraft:stripped_oak_log
 #A88E8E minecraft:stripped_oak_wood
 #5C31B5 minecraft:stripped_spruce_wood
 #5CF3F1 minecraft:sugar_cane
@@ -369,6 +403,7 @@
 #750605 computercraft:turtle_normal
 #6DB687 create:veridium
 #88779D minecraft:vine
+#7D38EB create:water_wheel_structure
 #B7775E minecraft:white_bed
 #07AD18 quark:white_corundum_cluster
 #F0111C byg:white_mangrove_leaves
